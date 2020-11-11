@@ -1,2 +1,2 @@
 # Competitive_Coding_Java
-This repositroy contains Competitive Coding Solutions in Java
+This repository contains Competitive Coding Solutions in Java
